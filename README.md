@@ -2,6 +2,7 @@
 A program that opens a list of browser urls using a python script that is compiled to an executable.
 
 # INFO
+Only supports Windows (for now)
 Used pyinstaller package
 
 # REQUIREMENTS
