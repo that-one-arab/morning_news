@@ -4,6 +4,7 @@ import time
 URLS = [
     "https://samsunmyo.omu.edu.tr/tr/haberler",
     "https://news.ycombinator.com/",
+    "https://www.reddit.com/r/artificial/",
     "https://www.reddit.com/r/programming/",
     "https://www.theguardian.com/world",
     "https://edition.cnn.com/world",
